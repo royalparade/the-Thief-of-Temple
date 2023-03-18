@@ -1,0 +1,4 @@
+repository "the theaf of godmiao@royal_parade@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
